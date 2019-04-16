@@ -3,6 +3,7 @@ import styled from "styled-components"
 import { Helmet } from "react-helmet"
 import screenshot from "../images/iPhone7.png"
 import logo from "../images/cocktail.png"
+import "../components/layout.css"
 const Landing = styled.div`
   min-width: 100%;
   min-height: 100vh;
